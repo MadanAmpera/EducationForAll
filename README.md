@@ -1,4 +1,4 @@
-# EducationForAll
+# Education Form All
 Project space and repository for the website Education For All
 
 ## Requirements Gathered
