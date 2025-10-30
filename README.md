@@ -12,7 +12,7 @@ There are multiple objectives for this website.
 
 ### A structure of the site
 
-Provided by Ankita and Richa
+Provided by Ankit and Richa
 
 ![Website structure](docs/images/website-structure.png)
 
@@ -24,4 +24,4 @@ Madan developed initial wireframes of the site to visualize the UI/UX of the web
 
 ## Initial System Architecture Diagram
 
-(Coming soon...)
+![System Architecture Diagram](docs/images/educationforall.drawio.png)
