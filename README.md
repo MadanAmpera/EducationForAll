@@ -12,11 +12,15 @@ There are multiple objectives for this website.
 4. Users both student and corporate can also provide feedback about the material in the website .
 5. Ankit also wants to provide updates about his tours on this website and allow users to make appointment to meet him via his Calendly calendar.
 
+---
+
 ### A structure of the site
 
 Provided by Ankit and Richa
 
 ![Website structure](docs/images/website-structure.png)
+
+---
 
 ### Initial Wireframes
 
@@ -28,17 +32,25 @@ Madan developed initial wireframes of the site to visualize the UI/UX of the web
 
 ![System Architecture Diagram](docs/images/educationforall.drawio.png)
 
+---
+
 ### Development framework - [Nuxt JS](https://nuxt.com/)
 
 Nuxt JS is a frontend framework to build modern websites.
+
+---
 
 ### [Decap CMS](https://decapcms.org/)
 
 A content management system is a way to update the content of the site securely. Decap CMS will be coupled with the website and the GitHub repository to update the content.
 
+---
+
 ### GitHub
 
 Source code repository and project space to maintain all information about the site. The repository is public at the moment as this allows us to view this space without creating an account for all and also allows us to host the site which is great for demos during the development phase.
+
+---
 
 ### [Cloudflare Pages](https://pages.cloudflare.com/)
 
@@ -50,6 +62,58 @@ Our website will be built using the latest [Jamstack](https://jamstack.org/) arc
 
 As for buying the domain name and emails [Namecheap](https://www.namecheap.com/) is one site which we may not commonly know of but the pricing looks very competitive. Request you to search for "domain name providers" and decide on one that suits your needs.
 
+---
+
 ## Development plan and Timeline
 
-(TBD...)
+### ✅ Project Overview
+
+This project aims to build a static website with:
+
+- Decap CMS integration for content management.
+- Dynamic content from YouTube and Spotify APIs.
+- Automated deployment using Cloudflare Pages and Workers.
+
+**Estimated Duration:** 2–3 months  
+**Total Effort:** ~80 hours (20 hrs per phase)  
+**Work Allocation:** ~10 hrs/week (freelance alongside regular job)
+
+---
+
+### 🛠 Technologies
+
+- **Frontend:** HTML, CSS, JavaScript (or React/Vue if needed)
+- **CMS:** Decap CMS
+- **Hosting & CDN:** GitHub Pages (initial), Cloudflare Pages (final)
+- **APIs:** YouTube API, Spotify API
+- **CI/CD:** Cloudflare Workers for build triggers
+
+---
+
+### 📂 Project Phases & Deliverables
+
+| Phase | Tasks | Deliverables | Estimated Time |
+|-------|-------|-------------|----------------|
+| **Phase 1** | Requirement gathering, wireframes, tech research | Wireframes & tech stack proposal | 20 hrs |
+| **Phase 2** | Scaffold pages, reusable components, integrate Decap CMS | Basic site on GitHub Pages | 20 hrs |
+| **Phase 3** | Integrate YouTube & Spotify APIs | Dynamic content pages | 20 hrs |
+| **Phase 4** | Setup CI/CD on Cloudflare, build triggers | Fully deployed site | 20 hrs |
+
+---
+
+### 📅 Timeline
+
+- **Week 1–2:** Phase 1 – Requirements & Wireframes  
+- **Week 3–4:** Phase 2 – Scaffold & CMS Integration  
+- **Week 5–6:** Phase 3 – API Integration  
+- **Week 7–8:** Phase 4 – Deployment & Automation  
+*(Buffer for feedback and revisions included)*
+
+---
+
+### 🔄 Communication Plan
+
+- Weekly updates via email or short call.
+- Demo after each phase for client feedback.
+
+---
