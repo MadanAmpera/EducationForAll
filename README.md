@@ -115,5 +115,3 @@ This project aims to build a static website with:
 
 - Weekly updates via email or short call.
 - Demo after each phase for client feedback.
-
----
